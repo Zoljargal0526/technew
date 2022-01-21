@@ -1,0 +1,42 @@
+.header-section{
+    width: 100%;
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo{
+    display: inline-block;
+    width: 150px;
+    height: auto;
+}
+.header__logo h1{
+    font-family: Roboto, sans-serif;
+    font-weight: 200;
+    font-size: 36px;
+    color: white;
+}
+.header--color{
+    background-color: black;
+}
+.header__menu{
+    padding-top: 5px;
+    display: inline-block;
+}
+.menu-item{
+    font-size: 20px;
+    color:#2cbac1;
+    text-decoration: none;
+}
+.header__btn{
+    display: inline-block;
+    width: 25%;
+    height: 30px;
+}
+.search-icon{
+    font: normal normal normal 30px/1 FontAwesome;
+    color:#2cbac1; 
+    float: right;
+    margin-right: 30px;
+}
