@@ -16,33 +16,33 @@
         </div>
         <div class="header__menu">
             <span ><a class="menu-item" href="#">НҮҮР</a></span>
-        <div class="dropdown">
-            <span class="dropbtn">МЭДЭЭ</span>
-            <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
-            <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
+            <div class="dropdown">
+                <span class="dropbtn">МЭДЭЭ</span>
+                <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
+                <div class="dropdown-content">
+                    <a href="#">Link 1</a>
+                    <a href="#">Link 2</a>
+                    <a href="#">Link 3</a>
+                </div>
             </div>
-        </div>
-        <div class="dropdown">
-            <span class="dropbtn">ТЕХНОЛОГИ & ИННОВАЦИ</span>
-            <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
-            <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
+            <div class="dropdown">
+                <span class="dropbtn">ТЕХНОЛОГИ & ИННОВАЦИ</span>
+                <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
+                <div class="dropdown-content">
+                    <a href="#">Link 1</a>
+                    <a href="#">Link 2</a>
+                    <a href="#">Link 3</a>
+                </div>
             </div>
-        </div>
-        <div class="dropdown">
-            <span class="dropbtn">ХИЙМЭЛ ОЮУН УХААН</span>
-            <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
-            <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
+            <div class="dropdown">
+                <span class="dropbtn">ХИЙМЭЛ ОЮУН УХААН</span>
+                <i class="fa fa-caret-down" style="font-size:20px;color:#2cbac1"></i>
+                <div class="dropdown-content">
+                    <a href="#">Link 1</a>
+                    <a href="#">Link 2</a>
+                    <a href="#">Link 3</a>
+                </div>
             </div>
-        </div>
         </div>
         <div class="header__btn">
             <img class="search-icon" src="app/assets/icon/search-solid.png" alt="">

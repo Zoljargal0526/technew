@@ -1,14 +1,14 @@
 .header-section{
-    width: 100%;
-    height: 100px;
+    height: 10%;
     padding-top: 30px;
     padding-left: 100px;
     display: flex;
     justify-content: space-between;
 }
 .header__logo{
+    flex: 1;
     display: inline-block;
-    width: 150px;
+    width: auto;
     height: auto;
 }
 .header__logo h1{
@@ -21,8 +21,8 @@
     background-color: black;
 }
 .header__menu{
+    flex: 7;
     padding-top: 5px;
-    display: inline-block;
 }
 .menu-item{
     font-size: 20px;
@@ -30,8 +30,7 @@
     text-decoration: none;
 }
 .header__btn{
-    display: inline-block;
-    width: 25%;
+    flex: 2;
     height: 30px;
 }
 .search-icon{
