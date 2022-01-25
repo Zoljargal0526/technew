@@ -20,22 +20,29 @@
 .header--color{
     background-color: black;
 }
+
 .header__menu{
     flex: 7;
     padding-top: 5px;
 }
+
 .menu-item{
     font-size: 20px;
     color:#2cbac1;
     text-decoration: none;
 }
+
 .header__btn{
     flex: 2;
     height: 30px;
 }
+
 .search-icon{
     font: normal normal normal 30px/1 FontAwesome;
     color:#2cbac1; 
     float: right;
     margin-right: 30px;
 }
+
+
+
